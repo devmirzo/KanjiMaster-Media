@@ -1,0 +1,53 @@
+﻿INSERT INTO public.kanji (
+  kanji_text,
+  onyomi,
+  kunyomi,
+  tarjima,
+  stroke_order_svgs,
+  stroke_video,
+  examples,
+  level
+) VALUES (
+  '6',
+  ARRAY['', ''],
+  ARRAY[''],
+  ARRAY['', ''],
+  ARRAY[
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_1.svg',
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_2.svg',
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_3.svg',
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_4.svg',
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_5.svg',
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_6.svg',
+    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_7.svg'
+  ],
+  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_00.mp4',
+  '[
+    {
+      ""word"": """",
+      ""furigana"": """",
+      ""translation"": """",
+      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_06_a.mp3""
+    },
+    {
+      ""word"": """",
+      ""furigana"": """",
+      ""translation"": """",
+      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_06_b.mp3""
+    },
+    {
+      ""word"": """",
+      ""furigana"": """",
+      ""translation"": """",
+      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_06_c.mp3""
+    },
+    {
+      ""word"": """",
+      ""furigana"": """",
+      ""translation"": """",
+      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/6/otoko_06_d.mp3""
+    }
+  ]'::jsonb,
+  'N5'
+);
+
