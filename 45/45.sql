@@ -8,76 +8,76 @@
   examples,
   level
 ) VALUES (
-  '45',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '口',
+  ARRAY['コウ', 'ク'],
+  ARRAY['くち'],
+  ARRAY['og‘iz', 'kirish','ochilish joyi'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_3.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_3.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_e.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_f.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_f.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_g.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_g.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_h.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_h.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_i.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_i.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/45/kuchi_06_j.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/45/kuchi_06_j.mp3"
     }
   ]'::jsonb,
   'N5'

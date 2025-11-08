@@ -8,81 +8,81 @@
   examples,
   level
 ) VALUES (
-  '70',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '話',
+  ARRAY['ワ'],
+  ARRAY['はな'],
+  ARRAY['gapirish', 'suhbatlashish','ma’lumot berish','suhbat','hikoya'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_3.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_4.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_5.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_6.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_7.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_8.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_3.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_4.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_5.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_6.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_7.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_8.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_e.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_f.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_f.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_g.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_g.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_h.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_h.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_i.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_i.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/70/hou-hana(su)_06_j.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/70/hou-hana(su)_06_j.mp3"
     }
   ]'::jsonb,
   'N5'

@@ -8,82 +8,82 @@
   examples,
   level
 ) VALUES (
-  '53',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '下',
+  ARRAY['カ', 'ゲ'],
+  ARRAY['した','しも','さ','くだ','お'],
+  ARRAY['past','quyi','ostida','tushish','kamayish'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_3.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_3.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_e.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_f.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_f.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_g.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_g.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_h.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_h.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_i.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_i.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_j.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_j.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/53/ge-shita_06_k.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/53/ge-shita_06_k.mp3"
     }
   ]'::jsonb,
   'N5'

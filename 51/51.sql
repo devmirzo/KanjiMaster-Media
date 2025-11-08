@@ -8,72 +8,72 @@
   examples,
   level
 ) VALUES (
-  '51',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '北',
+  ARRAY['ホク'],
+  ARRAY['きた'],
+  ARRAY['shimol'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_3.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_4.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_5.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_3.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_4.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_5.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_e.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_f.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_f.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_g.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_g.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_h.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_h.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/51/kita_06_i.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/51/kita_06_i.mp3"
     }
   ]'::jsonb,
   'N5'

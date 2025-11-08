@@ -8,47 +8,47 @@
   examples,
   level
 ) VALUES (
-  '10',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '父',
+  ARRAY['フ'],
+  ARRAY['ちち'],
+  ARRAY['ota', 'dada'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_3.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_4.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_3.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_4.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/10/fu-chichi_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/10/fu-chichi_06_e.mp3"
     }
   ]'::jsonb,
   'N5'

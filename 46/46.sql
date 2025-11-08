@@ -8,84 +8,84 @@
   examples,
   level
 ) VALUES (
-  '46',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '出',
+  ARRAY['シュツ','スイ'],
+  ARRAY['で','だ'],
+  ARRAY['chiqmoq', 'taqdim etish'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_3.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_4.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_5.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_3.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_4.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_5.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_e.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_f.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_f.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_g.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_g.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_h.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_h.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_i.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_i.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_j.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_j.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/46/de(ru)_06_k.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/46/de(ru)_06_k.mp3"
     }
   ]'::jsonb,
   'N5'

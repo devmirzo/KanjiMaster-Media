@@ -8,53 +8,53 @@
   examples,
   level
 ) VALUES (
-  '39',
-  ARRAY['', ''],
-  ARRAY[''],
-  ARRAY['', ''],
+  '円',
+  ARRAY['エン'],
+  ARRAY['まる'],
+  ARRAY['doira', 'butun','to‘liq','Yaponiya valyutasi: YEN'],
   ARRAY[
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_1.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_2.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_3.svg',
-    'https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_4.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_1.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_2.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_3.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_4.svg'
   ],
-  'https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_00.mp4',
+  'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_00.mp4',
   '[
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_06_a.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_06_a.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_06_b.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_06_b.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_06_c.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_06_c.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_06_d.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_06_d.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_06_e.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_06_e.mp3"
     },
     {
-      ""word"": """",
-      ""furigana"": """",
-      ""translation"": """",
-      ""audio"": ""https://github.com/devmirzo/KanjiMaster-Media/raw/master/39/en-maru_06_f.mp3""
+      "word": "",
+      "furigana": "",
+      "translation": "",
+     "audio": "https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/39/en-maru_06_f.mp3"
     }
   ]'::jsonb,
   'N5'
