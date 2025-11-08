@@ -11,7 +11,7 @@
   '田',
   ARRAY['デン'],
   ARRAY['た'],
-  ARRAY['', ''],
+  ARRAY['dala', 'ekin maydoni'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/13/den-ta_1.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/13/den-ta_2.svg',

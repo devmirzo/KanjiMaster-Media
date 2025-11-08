@@ -9,7 +9,7 @@
   level
 ) VALUES (
   '母',
-  ARRAY['ボ', ''],
+  ARRAY['ボ'],
   ARRAY['はは'],
   ARRAY['ona'],
   ARRAY[
