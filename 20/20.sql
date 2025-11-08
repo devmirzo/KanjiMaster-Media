@@ -14,9 +14,6 @@
   ARRAY['interval', 'vaqt oralig‘i','imkoniyat'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_11.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_12.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_4.svg',
@@ -24,7 +21,10 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_11.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_12.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/20/aida_00.mp4',
   '[

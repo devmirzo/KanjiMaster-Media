@@ -14,10 +14,6 @@
   ARRAY['yangi', 'zamonaviy','boshlanish'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_11.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_12.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_13.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_4.svg',
@@ -25,7 +21,11 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_11.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_12.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_13.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/35/atara(shii)_00.mp4',
   '[

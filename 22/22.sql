@@ -14,7 +14,6 @@
   ARRAY['peshin', 'kunning o‘rtasi'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_10.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_4.svg',
@@ -22,7 +21,8 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_10.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/22/uma_00.mp4',
   '[

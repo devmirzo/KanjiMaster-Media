@@ -14,8 +14,6 @@
   ARRAY['hafta'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_11.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_4.svg',
@@ -23,7 +21,9 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_11.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/26/shuu(matsu)_00.mp4',
   '[

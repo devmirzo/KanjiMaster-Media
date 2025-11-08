@@ -14,8 +14,6 @@
   ARRAY['baliq', 'baliqchilik'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_11.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_4.svg',
@@ -23,7 +21,9 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_11.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/82/uo_00.mp4',
   '[

@@ -14,7 +14,6 @@
   ARRAY['maktab', 'ta’lim muassasasi'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_10.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_4.svg',
@@ -22,7 +21,8 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_10.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/40/(gak)kou_00.mp4',
   '[

@@ -14,11 +14,6 @@
   ARRAY['stantsiya', 'bekat'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_11.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_12.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_13.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_14.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_4.svg',
@@ -26,7 +21,12 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_11.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_12.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_13.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_14.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/44/(kaku)eki_00.mp4',
   '[

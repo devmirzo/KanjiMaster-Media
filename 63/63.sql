@@ -14,9 +14,6 @@
   ARRAY['sotib olish', 'xarid qilish'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_11.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_12.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_4.svg',
@@ -24,7 +21,10 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_11.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_12.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/63/bai-ka(u)_00.mp4',
   '[

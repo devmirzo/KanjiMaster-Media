@@ -14,7 +14,6 @@
   ARRAY['yozish'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_10.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_4.svg',
@@ -22,7 +21,8 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_10.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/61/sho-ka(ku)_00.mp4',
   '[

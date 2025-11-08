@@ -14,7 +14,6 @@
   ARRAY['soat', 'vaqt','davr'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_10.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_4.svg',
@@ -22,7 +21,8 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_10.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/18/ji-toki_00.mp4',
   '[

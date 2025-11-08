@@ -14,11 +14,6 @@
   ARRAY['eshitish', 'tinglash','so‘rash','so‘rab bilish','xabar olish'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_11.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_12.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_13.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_14.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_4.svg',
@@ -26,7 +21,12 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_11.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_12.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_13.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_14.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/43/bun-ki(ku)_00.mp4',
   '[

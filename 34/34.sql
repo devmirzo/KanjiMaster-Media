@@ -14,7 +14,6 @@
   ARRAY['baland', 'yuqori','qimmat','yuqori darajadagi'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_10.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_4.svg',
@@ -22,7 +21,8 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_10.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/34/taka(i)_00.mp4',
   '[

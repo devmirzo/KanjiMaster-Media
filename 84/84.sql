@@ -14,9 +14,6 @@
   ARRAY['yo‘l', 'yo‘lak'],
   ARRAY[
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_1.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_10.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_11.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_12.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_2.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_3.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_4.svg',
@@ -24,7 +21,10 @@
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_6.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_7.svg',
     'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_8.svg',
-    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_9.svg'
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_9.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_10.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_11.svg',
+    'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_12.svg'
   ],
   'https://raw.githubusercontent.com/devmirzo/KanjiMaster-Media/main/84/dou-michi_00.mp4',
   '[
